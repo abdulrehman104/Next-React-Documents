@@ -88,6 +88,7 @@ The benefits of server-side rendering include:
 6. **Easier Debugging and Testing**: Server-side rendering simplifies debugging and testing processes since rendering occurs on the server, making it easier to identify and fix issues related to page rendering and content delivery.
 
 # Hydration
+[Hydration](https://www.youtube.com/watch?v=kZG3izJu7qE&list=LL&index=57&t=182s)
 
 # Pre Rendering
 
